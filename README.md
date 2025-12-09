@@ -1,7 +1,3 @@
-# 💫 About Me:
- 🌱 I’m currently learning Rust <br>☄️ Keen about machine learning and AI<br>💬 Ask me about advice that I won't follow<br>⚡ Fun fact I have a pet cat named sabun
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samridh_kandel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samridh-kandel) 
 
